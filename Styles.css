@@ -1,0 +1,72 @@
+.main{
+    width:100%;
+    height:100vh;
+    background-color:brown;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    position:absolute;
+  }
+  .result{
+   width:400px;
+    height:300px;
+    background-color:black;
+    border-radius:40px;
+    position:absolute;
+    overflow:hidden;
+    
+  }
+  .btn{
+    width:100px;
+    height:50px;
+    position:relative;
+    top:180px;
+    right:140px;
+    border-radius:40px;
+    font-weight:bold;
+    font-size:1.5rem;
+    font-family:cursive;
+    cursor:pointer;
+  }
+  .agent {
+    position:relative;
+    background-color:tomato;
+    width:100%;
+    height:50%;
+    color:white;
+    font-size: 4rem;
+    font-weight: bold;
+    font-family: cursive;
+    text-align: center;
+    
+}
+  .player{
+    position:relative;
+    background-color:transparent;
+    width:100%;
+    height:50%;
+    color:white;
+    font-size: 4rem;
+    font-weight: bold;
+    font-family: cursive;
+    text-align: center;
+  }
+  #user {
+    position:relative;
+    background-color:tomato;
+    width:100%;
+    height:50%;
+    color:white;
+    font-size: 4rem;
+    font-weight: bold;
+    font-family: cursive;
+    text-align: center;
+    
+}
+#user2{
+    color:white;
+    font-size: 4rem;
+    font-weight: bold;
+    font-family: cursive;
+    text-align: center;
+}
